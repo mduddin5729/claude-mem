@@ -19,5 +19,6 @@
       "source": "./cowork",
       "description": "Claude-Mem for Cowork (Claude app cloud sessions) - hooks stream tool use to cmem.ai and inject observations into new sessions and agents"
     }
+
   ]
 }
